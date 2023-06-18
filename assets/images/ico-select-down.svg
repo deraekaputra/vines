@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="12" cy="12" r="12"></circle>
+    </defs>
+    <g id="Artboard-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ico-nav-dropdownidle">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#7D060F" fill-rule="nonzero" xlink:href="#path-1"></use>
+            <g mask="url(#mask-2)" id="a-link">
+                <g transform="translate(0.000000, 3.000000)">
+                    <g transform="translate(12.000000, 7.875000) rotate(90.000000) translate(-12.000000, -7.875000) translate(4.500000, -3.750000)">
+                        <polygon id="a" fill="#B39F66" fill-rule="nonzero" points="3.08625 0.375 0.375 3.01875 9.183 11.625 0.375 20.23125 3.08625 22.875 14.625 11.625"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="24px" viewBox="0 0 15 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>ico-chevron-left</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="2.854 0 0 2.82 9.271 12 0 21.18 2.854 24 15 12"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ico-chevron-left" transform="translate(7.500000, 12.000000) scale(-1, 1) translate(-7.500000, -12.000000) ">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="a"></g>
+            <g id="Group" mask="url(#mask-2)" fill="#FFFFFF" fill-rule="nonzero">
+                <g transform="translate(-42.000000, -38.000000)" id="Shape">
+                    <polygon points="0 0 100 0 100 100 0 100"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

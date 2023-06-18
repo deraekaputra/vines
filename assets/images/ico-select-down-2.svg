@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="8px" viewBox="0 0 12 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>ico-select-down-2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="12" cy="12" r="12"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ico-select-down-2" transform="translate(-6.000000, -8.000000)">
+            <g id="Mask" fill-rule="nonzero">
+                <circle id="path-1" cx="12" cy="12" r="12"></circle>
+            </g>
+            <g id="a-link-Clipped">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="path-1"></g>
+                <g id="a-link" mask="url(#mask-2)">
+                    <g transform="translate(6.000000, 8.000000)" id="Group">
+                        <g>
+                            <g transform="translate(6.000000, 4.000000) rotate(90.000000) translate(-6.000000, -4.000000) translate(2.000000, -2.000000)" fill="#B39F66" fill-rule="nonzero" id="a">
+                                <polygon points="1.646 0.195652174 0.2 1.575 4.8976 6.06521739 0.2 10.5554348 1.646 11.9347826 7.8 6.06521739"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
